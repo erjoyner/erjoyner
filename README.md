@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erjoyner, a contractor through ADNET, serving the RSES AMA contract at NASA Langley Research Center.
-- 👀 I’m interested in better ways of connecting users with data to solve Wicked Problems in the Earth System.  
-- 🌱 I’m currently exploring about how we can apply Earth Observation data to address issues related to Agriculture, Health and Air Quality Energy, Humanitarian issues and more!
+- 👀 I’m interested in better ways of connecting users with data to solve practical problems in the Earth System.  
+- 🌱 I’m currently exploring about how we can apply Earth Observation data to address issues related to Health and Air Quality, Energy, Humanitarian issues and more!
 - 💞️📫 Come join me! Feel free to reach out to me at elizabeth.r.joyner@nasa.gov
 
 <!---
